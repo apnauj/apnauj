@@ -15,10 +15,10 @@
 
 ---
 
-I love building things and cracking hard problems with code.
+I love building cool things and cracking hard problems with code. The code is changing the world every single day and I want to be part of it!
 
 I'm into **competitive programming** — this year I'm competing in the **ICPC** with my team
-**Bulletproof**, alongside [@filosofistichada](https://github.com/filosofistichada) and
+**booletproof**, alongside [@filosofistichada](https://github.com/filosofistichada) and
 [@DuqueJR](https://github.com/DuqueJR). We're looking forward to going further in the
 competition and learning a lot along the way.
 
@@ -147,7 +147,7 @@ trade-offs side by side.
 
 ## 🎮 Outside the code
 
-I go to the gym, play videogames and boardgames, and listen to music pretty much all day. 🎧
+I go to the gym, play videogames (Valorant) and boardgames (especially Catan), and listen to music pretty much all day. 🎧
 
 Honestly though — most of my free time goes into thinking up cool projects and then
 actually building them.
